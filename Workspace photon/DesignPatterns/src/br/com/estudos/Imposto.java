@@ -1,4 +1,4 @@
-package br.com.estudos.strategy;
+package br.com.estudos;
 
 public interface Imposto {
 

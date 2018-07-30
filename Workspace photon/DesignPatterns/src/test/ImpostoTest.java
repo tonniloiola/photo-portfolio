@@ -4,11 +4,11 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.estudos.strategy.CalculadorDeImpostos;
-import br.com.estudos.strategy.ICMS;
-import br.com.estudos.strategy.ISS;
-import br.com.estudos.strategy.Imposto;
-import br.com.estudos.strategy.Orcamento;
+import br.com.estudos.CalculadorDeImpostos;
+import br.com.estudos.ICMS;
+import br.com.estudos.ISS;
+import br.com.estudos.Imposto;
+import br.com.estudos.Orcamento;
 
 public class ImpostoTest {
 	
